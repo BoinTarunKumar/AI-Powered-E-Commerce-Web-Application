@@ -21,6 +21,8 @@ An eCommerce Application backend with Java Spring Boot with frontend using the R
 - BCrypt
 - Maven
 - Axios
+- JSoup
+- Open AI
 
 ## Schema Table
 ![ER_diagram](https://github.com/Vivekgupta96/eCommerce-Application/assets/119284680/3bd9f9b8-29a8-42fe-93fd-daa931d46c70)
@@ -33,6 +35,7 @@ An eCommerce Application backend with Java Spring Boot with frontend using the R
 - Customized access denied handling
 - User Module
 - Admin Module
+- AI driven dynamic pricing and competitor analysis.
 
 ## Getting Started
 
