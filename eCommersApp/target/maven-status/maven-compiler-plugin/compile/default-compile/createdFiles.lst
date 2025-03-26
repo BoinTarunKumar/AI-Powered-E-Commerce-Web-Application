@@ -1,0 +1,6 @@
+Ecom/Model/Review.class
+Ecom/Repository/CartItemRepository.class
+Ecom/Model/OrderItem.class
+Ecom/Model/Cart.class
+Ecom/Model/Product.class
+Ecom/Model/CartItem.class
