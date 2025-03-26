@@ -65,7 +65,7 @@ http://localhost:3000
 You should now see the React frontend of the Ecommerce Application running locally.
 
 ## Below are the website Shot
-![Register Page](https://raw.githubusercontent.com/BoinTarunKumar/AI-Powered-E-Commerce-Web-Application/main/ecomShot/register.png)
+![register](https://github.com/Vivekgupta96/eCommerce-Application/assets/119284680/a190a275-8f04-423e-95da-d394c5a035e4)
 
 ![login](https://github.com/Vivekgupta96/eCommerce-Application/assets/119284680/46d7e173-11c6-44fd-a4b1-00e6ae64717e)
 
