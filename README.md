@@ -33,6 +33,7 @@ An eCommerce Application backend with Java Spring Boot with frontend using the R
 - Customized access denied handling
 - User Module
 - Admin Module
+- AI powered dynamic pricing
 
 ## Getting Started
 
