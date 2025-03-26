@@ -25,7 +25,6 @@ An eCommerce Application backend with Java Spring Boot with frontend using the R
 
 ## Schema Table
 ![ER_diagram](https://github.com/Vivekgupta96/eCommerce-Application/assets/119284680/3bd9f9b8-29a8-42fe-93fd-daa931d46c70)
-![dummy](https://raw.githubusercontent.com/BoinTarunKumar/AI-Powered-E-Commerce-Web-Application/main/ecomShot/register.png)
 ## Features
 
 - User registration and login with JWT authentication
