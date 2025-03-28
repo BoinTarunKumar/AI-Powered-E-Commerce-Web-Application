@@ -102,10 +102,10 @@ function AddProduct() {
             onChange={handleChange}
           >
             <option value="">Select a category</option>
-            <option value="fruits">Fruits</option>
-            <option value="vegetables">Vegetables</option>
-            <option value="electronics">Electronic</option>
-            <option value="gadgets">Gadgets</option>
+            <option value="Footwear">Footwear</option>
+            <option value="Clothing">Clothing</option>
+            <option value="Electronics">Electronics</option>
+            <option value="Grocery">Grocery</option>
           </select>
         </div>
 

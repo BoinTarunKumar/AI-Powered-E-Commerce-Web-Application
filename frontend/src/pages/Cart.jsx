@@ -97,9 +97,9 @@ const Cart = () => {
       {cartData.cartItems?.length > 0 ? (
         <div className="cart-list">
           {cartData.cartItems.map((item) => (
-            <div className="cart-card" key={item.cartItemId}>
-              <div className="cartproduct-image1">
-                <img src={item.product.imageUrl} alt={item.product.name} />
+            <div className="cart-card" key={item.cartItemId} style={{ height: "300px", width: "300" }}>
+              <div className="cartproduct-image1" style={{ height: "150px", width: "auto" }}>
+                <img src={item.product.imageUrl} alt={item.product.name} style={{ height: "140px", width: "auto" }}/>
               </div>
               <div className="cartproduct-info">
                 <h2>{item.product.name}</h2>

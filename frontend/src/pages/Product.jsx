@@ -79,10 +79,10 @@ const Product = () => {
           }}
         >
           <option value="All">All</option>
-          <option value="vegetables">Vegetable</option>
-          <option value="fruits">Fruits</option>
-          <option value="electronics">Electronic</option>
-          <option value="gadgets">Gaggets</option>
+          <option value="Clothing">Clothing</option>
+          <option value="Footwear">Footwear</option>
+          <option value="Electronics">Electronics</option>
+          <option value="Grocery">Grocery</option>
         </select>
         <br />
         <label>Price:</label>
@@ -126,8 +126,8 @@ const Product = () => {
         ) : (
           filteredProducts.map((product) => (
             <div className="product-card" key={product.productId}>
-              <div className="product-image1">
-                <img src={product.imageUrl} alt={product.name} />
+              <div className="product-image1" style={{ height: "100px", width: "auto", margin: "0px 0px 10px 0px"}}>
+                <img src={product.imageUrl} alt={product.name} style={{ height: "100px", width: "auto" }}/>
               </div>
               <div className="product-info">
                 <h2>{product.name}</h2>

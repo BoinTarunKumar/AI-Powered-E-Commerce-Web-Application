@@ -23,12 +23,13 @@ import jakarta.persistence.Id;
 import jakarta.persistence.OneToMany;
 import jakarta.persistence.OneToOne;
 import jakarta.persistence.Table;
-import lombok.Data;
+import lombok.Getter;
+import lombok.Setter;
 import lombok.ToString;
 
-
 @SuppressWarnings("unused")
-@Data
+@Getter
+@Setter
 @Entity
 @Table(name = "Users")
 public class User {

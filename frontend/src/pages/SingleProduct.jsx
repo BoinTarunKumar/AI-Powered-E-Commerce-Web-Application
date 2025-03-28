@@ -31,7 +31,7 @@ const SingleProduct = () => {
         alert("Product added to Cart.....");
       })
       .catch((error) => {
-        alert("Product Alredy in cart......");
+        alert("Product Already in cart......");
       });
   };
   return (
