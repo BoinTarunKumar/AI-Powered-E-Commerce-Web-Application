@@ -1,8 +1,8 @@
 # AI Powered Restful API for Online E-Commerce Application using Spring Boot and Reactjs for Front End with Spring Security with JWT Implementation
 
-An eCommerce Application backend with Java Spring Boot with frontend using the Reactjs
+An ECommerce Application backend with Java Spring Boot with frontend using the Reactjs
 
-- Welcome to the documentation for the Ecommerce API, a powerful RESTful API for an Online eCommerce Application developed using Spring Boot, Spring Security with JWT implementation, and React for the frontend. This API provides comprehensive endpoints to support various features of an Ecommerce Application.
+- Welcome to the documentation for the Ecommerce API, a powerful RESTful API for an Online ECommerce Application developed using Spring Boot, Spring Security with JWT implementation, and React for the frontend. This API provides comprehensive endpoints to support various features of an Ecommerce Application.
 
 ## Tech Stack and Technology Used
 
