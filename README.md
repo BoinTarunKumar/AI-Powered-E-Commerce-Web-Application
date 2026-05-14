@@ -1,4 +1,4 @@
-# AI Powered Restful API for Online eCommerce Application using SpringBoot and Reactjs for frontEnd with Spring Security with JWT Implementation
+# AI Powered Restful API for Online E-Commerce Application using Spring Boot and Reactjs for Front End with Spring Security with JWT Implementation
 
 An eCommerce Application backend with Java Spring Boot with frontend using the Reactjs
 
